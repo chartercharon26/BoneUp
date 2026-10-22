@@ -1,65 +1,61 @@
-<div align="center">
-  <img src="icon.png" width="112" alt="BoneUp 应用图标">
-  <h1>BoneUp 🦴</h1>
-  <p><strong>陪你上班，也提醒你站起来的桌面小伙伴。</strong></p>
-  <p>原版 1.1 · 喵特别版 1.3 · 简体中文与 English</p>
-  <p><a href="README.md">English</a> | <strong>简体中文</strong></p>
-  <p><a href="https://github.com/chartercharon26/BoneUp#下载"><strong>下载 BoneUp →</strong></a></p>
-</div>
+<p align="center"><a href="README.md">English</a> · <strong>简体中文</strong></p>
 
----
+<p align="center"><img src="boneup-editions.png" alt="Original BoneUp pixel pet and BoneUp Meow chibi cat" width="1000"></p>
 
-桌面角落的小动物会陪你工作。连续坐着不动，它就会逐渐变成骷髅；站起来活动一下，让它恢复活力。
+<h1 align="center">工作有人陪，久坐有人催。</h1>
+<p align="center">像素小动物，还是软萌小猫？选一个，放在你的桌面角落。</p>
+
+<p align="center"><a href="https://github.com/chartercharon26/BoneUp/releases/download/v1.1.0/BoneUp-1.1-macOS.zip"><img src="download-macos.svg" alt="Download original BoneUp for macOS" width="222"></a> <a href="https://github.com/chartercharon26/BoneUp/releases/download/v1.1.0/BoneUp-1.1-Windows.zip"><img src="download-windows.svg" alt="Download original BoneUp for Windows" width="222"></a> <a href="https://github.com/chartercharon26/BoneUp/releases/download/v1.3.0-meow/BoneUp-Meow-1.3-macOS.zip"><img src="download-meow.svg" alt="Download BoneUp Meow for macOS" width="222"></a></p>
+
+<p align="center">原版：Mac / Windows · 喵特别版：Mac · 两版均支持中文 / English</p>
+
+## 坐太久，它真的会变骨头
+
+![原版从正常工作到逐渐变骨头的三个状态](original-sitting.png)
+
+连续坐着，小动物会从脚开始慢慢变成骨头；站起来活动后，点 **STAND UP** 帮它恢复。提醒就在桌面角落，陪你把“该起来了”变成一件看得见的小事。
+
+## 选一位桌面伙伴
+
+### 🦴 原版 BoneUp 1.1 · 像素动物园
+
+![原版的14种像素动物角色](original-skins.png)
+
+**14 种动物**，各有叫声、互动和骷髅形态。猫咪、熊猫、长颈鹿、哈士奇、狮子、鲨鱼……选择你喜欢的那个。
+
+[Mac 下载](https://github.com/chartercharon26/BoneUp/releases/download/v1.1.0/BoneUp-1.1-macOS.zip) · [Windows 下载](https://github.com/chartercharon26/BoneUp/releases/download/v1.1.0/BoneUp-1.1-Windows.zip) · [查看原版图文介绍](ORIGINAL.zh-CN.md)
+
+### 🐾 BoneUp 喵 1.3 · 软萌猫咪特别版
+
+![九只Q版小猫](meow-preview.png)
+
+**9 只 Q 版小猫**，挠屏幕、推杯子、变面包、关灯吓人。独立安装，可与原版共存。
+
+[Mac 下载](https://github.com/chartercharon26/BoneUp/releases/download/v1.3.0-meow/BoneUp-Meow-1.3-macOS.zip) · [查看特别版图文介绍](MEOW.zh-CN.md)
+
+## 陪你工作，也陪你休息
+
+| 久坐提醒 | 日常作息 | 自由安排 |
+| --- | --- | --- |
+| 可调间隔、STAND UP 恢复 | 午饭、午休、起床、下班、加班 | 任务模式、专注与音量控制 |
 
 ## 下载
 
-| 系统 | 下载文件 | 安装方法 |
+| 版本 | 系统 | 安装方法 |
 | --- | --- | --- |
-| macOS | [BoneUp 1.1 Mac 版](https://github.com/chartercharon26/BoneUp/releases/download/v1.1.0/BoneUp-1.1-macOS.zip) | 解压 ZIP，打开其中的 DMG，把 BoneUp 拖入“应用程序”。 |
-| Windows | [BoneUp 1.1 Windows 版](https://github.com/chartercharon26/BoneUp/releases/download/v1.1.0/BoneUp-1.1-Windows.zip) | 先**全部解压**，再双击 `install.bat`。 |
+| [原版 BoneUp 1.1](https://github.com/chartercharon26/BoneUp/releases/tag/v1.1.0) | macOS / Windows | Mac：解压后打开 DMG，拖入应用程序。Windows：全部解压后运行 `install.bat`。 |
+| [BoneUp 喵 1.3 特别版](https://github.com/chartercharon26/BoneUp/releases/tag/v1.3.0-meow) | macOS 12+ · Apple 芯片 / Intel | 解压后打开 DMG，把 **BoneUp 喵**拖入应用程序。 |
 
-两个包都带有中英文使用手册、快速开始和使用条款。请下载对应系统的程序包；GitHub 自动生成的 **Source code** 文件不是安装包。
+两个版本均支持**中文 / English**，安装包附有中英文指南。语言切换在菜单中的 **语言 / Language**。自动生成的 **Source code** 不是安装包。
 
-## BoneUp 喵 1.3 · Mac 特别版 🐾
+## 使用说明与反馈
 
-![BoneUp 喵的九只 Q 版小猫](meow-preview.png)
+- 原版：[中文图文介绍](ORIGINAL.zh-CN.md) · [English](ORIGINAL.md) · [中文手册](User-Guide-zh-CN.pdf) · [English guide](User-Guide-English.pdf)
+- 喵特别版：[中文图文介绍](MEOW.zh-CN.md) · [English](MEOW.md)
+- [用中文或英文反馈问题](https://github.com/chartercharon26/BoneUp/issues)：请注明版本、系统和遇到的情况。
 
-喜欢更软萌的猫咪？**BoneUp 喵**提供九只 Q 版小猫、猫咪录音和不同的点击互动，并保留久坐计时和作息提醒。它是独立的 Mac 程序，可与原版同时安装。
+<details><summary>使用条款与分发</summary>
 
-[**下载喵特别版 1.3 Mac 版**](https://github.com/chartercharon26/BoneUp/releases/download/v1.3.0-meow/BoneUp-Meow-1.3-macOS.zip) · [中文介绍与说明](MEOW.zh-CN.md) · [English introduction & guide](MEOW.md)
+供个人使用，保留所有权利。原版条款：[中文](TERMS-OF-USE.zh-CN.txt)／[English](TERMS-OF-USE.txt)；特别版：[中文](MEOW-TERMS.zh-CN.txt)／[English](MEOW-TERMS.txt)。公开下载不代表授予开源许可，再分发、修改及商业使用须按条款获得作者许可。
 
-**macOS 12+ · Apple 芯片 / Intel 通用 · 简体中文 / English。** 特别版暂无 Windows 版本；上方原版下载继续保留。
-
-## 原版 BoneUp 1.1 · 主要功能
-
-- **久坐变骨头。** 小动物随连续坐着的时间变化，提醒你起来活动。
-- **14 种动物皮肤。** 猫咪、熊猫、长颈鹿、哈士奇等桌面伙伴。
-- **工作日作息。** 活动、午饭、午休、起床和加班提醒。
-- **任务模式。** 按你开始工作的时间启动提醒。
-- **专注与音量控制。** 需要安静时随时调整。
-- **中英文切换。** 自动跟随系统，也可手动选择。
-
-## 第一次使用
-
-**Mac：** 从“应用程序”打开 BoneUp，菜单栏会出现图标，桌面角落会出现小动物。构建目标为 macOS 12 及以上，包含 Apple 芯片和 Intel 支持。
-
-**Windows：** 安装时请保留 `install.bat` 旁的 `assets` 和 `data` 文件夹。安装脚本使用 Windows 的 .NET Framework 编译器构建并安装程序。如果提示缺少 .NET Framework，请按提示安装微软 .NET Framework 4.8 后重试。
-
-程序默认随登录自动启动，可在菜单中关闭。电脑睡眠或关机时，定时提醒无法保证播放。
-
-### 切换语言
-
-Mac 打开**菜单栏菜单**；Windows 打开**系统托盘菜单**。选择 **语言 / Language → 简体中文**或 **English**。“跟随系统 / Follow system”会自动选择。
-
-## 原版 BoneUp 1.1 · 使用手册
-
-- [简体中文使用手册](User-Guide-zh-CN.pdf)
-- [English user guide](User-Guide-English.pdf)
-
-## 反馈问题
-
-欢迎用**中文或英文**[提交 Issue](https://github.com/chartercharon26/BoneUp/issues)。请说明操作系统、BoneUp 版本、你期望的效果和实际遇到的情况；发截图和日志前，请移除个人信息。
-
-## 使用与分发
-
-BoneUp 按随包附带的[中文使用条款](TERMS-OF-USE.zh-CN.txt)／[English terms](TERMS-OF-USE.txt)供个人使用，保留所有权利。本仓库用于下载和说明，不授予开源许可。按现有条款，再分发、修改和商业使用需要作者书面许可。
+</details>

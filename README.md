@@ -1,65 +1,61 @@
-<div align="center">
-  <img src="icon.png" width="112" alt="BoneUp app icon">
-  <h1>BoneUp 🦴</h1>
-  <p><strong>A desktop pet that reminds you to stand up.</strong></p>
-  <p>Original 1.1 · Meow Special Edition 1.3 · English & 简体中文</p>
-  <p><strong>English</strong> | <a href="README.zh-CN.md">简体中文</a></p>
-  <p><a href="https://github.com/chartercharon26/BoneUp#download"><strong>Download BoneUp →</strong></a></p>
-</div>
+<p align="center"><strong>English</strong> · <a href="README.zh-CN.md">简体中文</a></p>
 
----
+<p align="center"><img src="boneup-editions.png" alt="Original BoneUp pixel pet and BoneUp Meow chibi cat" width="1000"></p>
 
-Meet your tiny desk companion. Keep sitting and your pet gradually turns into a skeleton. Stand up, take a break, and let it recover.
+<h1 align="center">A little company. A gentle nudge to move.</h1>
+<p align="center">Pixel animals or soft chibi cats? Choose your corner-of-the-screen companion.</p>
+
+<p align="center"><a href="https://github.com/chartercharon26/BoneUp/releases/download/v1.1.0/BoneUp-1.1-macOS.zip"><img src="download-macos.svg" alt="Download original BoneUp for macOS" width="222"></a> <a href="https://github.com/chartercharon26/BoneUp/releases/download/v1.1.0/BoneUp-1.1-Windows.zip"><img src="download-windows.svg" alt="Download original BoneUp for Windows" width="222"></a> <a href="https://github.com/chartercharon26/BoneUp/releases/download/v1.3.0-meow/BoneUp-Meow-1.3-macOS.zip"><img src="download-meow.svg" alt="Download BoneUp Meow for macOS" width="222"></a></p>
+
+<p align="center">Original: macOS / Windows · Meow: macOS · Both speak English & 简体中文</p>
+
+## Sit too long. Your pet shows it.
+
+![The original pet changes from lively to partly skeletal to a full skeleton](original-sitting.png)
+
+Keep sitting and the bones creep up from the feet. Get up, take a break, then click **STAND UP** to help your companion recover. A small, visible reminder in the corner of your desktop.
+
+## Pick your desk companion
+
+### 🦴 Original BoneUp 1.1 · A pixel menagerie
+
+![The fourteen original pixel animal skins](original-skins.png)
+
+**14 animals**, each with its own voice, interaction and skeleton. Cats, a panda, a giraffe, a husky, a lion, a shark… pick your personality.
+
+[Download for macOS](https://github.com/chartercharon26/BoneUp/releases/download/v1.1.0/BoneUp-1.1-macOS.zip) · [Download for Windows](https://github.com/chartercharon26/BoneUp/releases/download/v1.1.0/BoneUp-1.1-Windows.zip) · [Explore the original edition](ORIGINAL.md)
+
+### 🐾 BoneUp Meow 1.3 · Soft cats, big personalities
+
+![The nine chibi cats](meow-preview.png)
+
+**9 chibi cats** that scratch, sing, loaf, push cups and turn out the lights. A separate Mac app that can live alongside original BoneUp.
+
+[Download for macOS](https://github.com/chartercharon26/BoneUp/releases/download/v1.3.0-meow/BoneUp-Meow-1.3-macOS.zip) · [Explore the Meow special edition](MEOW.md)
+
+## Work, break, repeat
+
+| Sitting reminders | Your working day | Your own rhythm |
+| --- | --- | --- |
+| Adjustable intervals and STAND UP recovery | Lunch, naps, wake-up, clock-out and overtime | Task Mode, Focus mode and volume controls |
 
 ## Download
 
-| Platform | Download | Getting started |
+| Edition | Platform | Getting started |
 | --- | --- | --- |
-| macOS | [BoneUp 1.1 for macOS](https://github.com/chartercharon26/BoneUp/releases/download/v1.1.0/BoneUp-1.1-macOS.zip) | Extract the ZIP, open the DMG, then drag BoneUp into Applications. |
-| Windows | [BoneUp 1.1 for Windows](https://github.com/chartercharon26/BoneUp/releases/download/v1.1.0/BoneUp-1.1-Windows.zip) | Extract **all** files, then double-click `install.bat`. |
+| [Original BoneUp 1.1](https://github.com/chartercharon26/BoneUp/releases/tag/v1.1.0) | macOS / Windows | Mac: extract, open the DMG, drag into Applications. Windows: extract all files and run `install.bat`. |
+| [BoneUp Meow 1.3](https://github.com/chartercharon26/BoneUp/releases/tag/v1.3.0-meow) | macOS 12+ · Apple silicon / Intel | Extract, open the DMG and drag **BoneUp 喵** into Applications. |
 
-Both packages include English and Chinese user guides, quick-start instructions, and terms of use. Choose one of the two platform packages above; GitHub's automatically generated **Source code** archives are not installers.
+Both editions support **English / 简体中文** and include bilingual guides. Choose **语言 / Language** from the app menu. GitHub's automatic **Source code** archives are not installers.
 
-## BoneUp Meow 1.3 · macOS special edition 🐾
+## Guides and feedback
 
-![Nine chibi cats in BoneUp Meow](meow-preview.png)
+- Original: [English visual introduction](ORIGINAL.md) · [中文](ORIGINAL.zh-CN.md) · [English guide](User-Guide-English.pdf) · [中文手册](User-Guide-zh-CN.pdf)
+- Meow: [English visual introduction](MEOW.md) · [中文](MEOW.zh-CN.md)
+- [Send feedback in English or Chinese](https://github.com/chartercharon26/BoneUp/issues). Include the edition, OS and what happened.
 
-Prefer a softer cat-only companion? **BoneUp Meow** adds nine chibi cats, recorded meows and unique click interactions, with the familiar sitting timer and workday reminders. It is a separate Mac app and can be installed alongside original BoneUp.
+<details><summary>Terms and redistribution</summary>
 
-[**Download Meow 1.3 for macOS**](https://github.com/chartercharon26/BoneUp/releases/download/v1.3.0-meow/BoneUp-Meow-1.3-macOS.zip) · [English introduction & guide](MEOW.md) · [中文介绍](MEOW.zh-CN.md)
+Personal use; all rights reserved. Original terms: [English](TERMS-OF-USE.txt) / [中文](TERMS-OF-USE.zh-CN.txt). Meow terms: [English](MEOW-TERMS.txt) / [中文](MEOW-TERMS.zh-CN.txt). Public downloads do not grant an open-source licence; redistribution, modification and commercial use require the author's permission under the terms.
 
-**macOS 12+ · Apple silicon / Intel · English / 简体中文.** This special edition has no Windows build; original BoneUp downloads above remain available.
-
-## Original BoneUp 1.1 · What it does
-
-- **A pet that changes with your sitting time.** A visible nudge to get up and move.
-- **14 animal skins.** Cats, a panda, a giraffe, a husky, and more.
-- **Workday reminders.** Breaks, lunch, naps, wake-up time, and overtime.
-- **Task mode.** Start a focused session with your own reminder interval.
-- **A quieter desktop.** Focus mode and adjustable volume.
-- **English and Simplified Chinese.** Follow your system language or choose one manually.
-
-## First launch
-
-**macOS:** Open BoneUp from Applications. Look for its menu-bar icon and the pet on your desktop. The build targets macOS 12 or later and includes Apple silicon and Intel support.
-
-**Windows:** Keep the extracted `assets` and `data` folders next to `install.bat` while installing. The installer builds and installs the app using the Windows .NET Framework compiler. If it reports a missing .NET Framework, follow the message to install Microsoft's .NET Framework 4.8, then try again.
-
-The app is configured to start when you sign in. You can change this from its menu. A sleeping or powered-off computer cannot reliably play a scheduled reminder.
-
-### Change the language
-
-Open the **menu-bar menu** on macOS or the **system-tray menu** on Windows, then choose **语言 / Language → English** or **简体中文**. **Follow system** selects the language automatically.
-
-## Original BoneUp 1.1 · Guides
-
-- [English user guide](User-Guide-English.pdf)
-- [简体中文使用手册](User-Guide-zh-CN.pdf)
-
-## Feedback
-
-Please [open an issue](https://github.com/chartercharon26/BoneUp/issues) in **English or Chinese**. Include your operating system, BoneUp version, what you expected, and what happened. Remove personal information from screenshots and logs before sharing them.
-
-## Use and redistribution
-
-BoneUp is distributed for personal use under the included [English terms](TERMS-OF-USE.txt) / [中文使用条款](TERMS-OF-USE.zh-CN.txt). All rights reserved. This repository provides downloads and documentation; it does not grant an open-source license. Redistribution, modification, and commercial use require the author's written permission under those terms.
+</details>

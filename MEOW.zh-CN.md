@@ -1,4 +1,6 @@
-<div align="center"><img src="meow-icon.png" width="112" alt="BoneUp 喵爪印图标"><h1>BoneUp 喵 🐾</h1><p><strong>九只小猫，陪你上班，也提醒你站起来。</strong></p><p>1.3 特别版 · macOS 12+ · Apple 芯片 / Intel 通用</p><p><a href="MEOW.md">English</a> | <strong>简体中文</strong></p></div>
+<div align="center"><h1>BoneUp 喵 🐾</h1><p><strong>九只小猫，陪你上班，也提醒你站起来。</strong></p><p>1.3 特别版 · macOS 12+ · Apple 芯片 / Intel 通用</p><p><a href="MEOW.md">English</a> | <strong>简体中文</strong></p></div>
+
+<p align="center"><a href="https://github.com/chartercharon26/BoneUp/releases/download/v1.3.0-meow/BoneUp-Meow-1.3-macOS.zip"><img src="download-meow.svg" alt="Download BoneUp Meow for macOS" width="248"></a></p>
 
 ![BoneUp 喵的九只小猫](meow-preview.png)
 
@@ -9,6 +11,10 @@ BoneUp 喵是 BoneUp 的 Q 版猫咪特别版。坐太久，小猫逐渐变灰�
 [**下载 BoneUp 喵 1.3 Mac 版**](https://github.com/chartercharon26/BoneUp/releases/download/v1.3.0-meow/BoneUp-Meow-1.3-macOS.zip) · [发布说明](https://github.com/chartercharon26/BoneUp/releases/tag/v1.3.0-meow)
 
 特别版目前**仅有 Mac 版**。原版 BoneUp 的 Mac／Windows 下载见[仓库首页](README.zh-CN.md#下载)。
+
+## 坐久了，它会一点点变成骨头猫
+
+![小猫久坐变化全过程](meow-sitting.png)
 
 ## 特别版内容
 
@@ -30,6 +36,9 @@ BoneUp 喵是 BoneUp 的 Q 版猫咪特别版。坐太久，小猫逐渐变灰�
 
 ## 九只猫与小动作
 
+![Nine actual cat interactions](meow-actions.png)
+
+
 | 猫咪 | 点击后的专属动作 |
 | --- | --- |
 | 奶牛猫 | 挠屏幕，留下粉色爪印。 |
@@ -43,6 +52,10 @@ BoneUp 喵是 BoneUp 的 Q 版猫咪特别版。坐太久，小猫逐渐变灰�
 | 暹罗猫 | 超大声喵叫。 |
 
 切换：**🐾 → 悬浮小猫 → 换皮肤**。点 SIT 后的时间调整 1–60 分钟的久坐间隔；喇叭按钮调音量和专注模式。作息与任务模式仍在菜单中。
+
+## 陪你过一天
+
+![午饭、午睡和下班场景](meow-day.png)
 
 ## 图文使用说明
 
