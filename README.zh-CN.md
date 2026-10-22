@@ -5,9 +5,9 @@
 <h1 align="center">工作有人陪，久坐有人催。</h1>
 <p align="center">像素小动物，还是软萌小猫？选一个，放在你的桌面角落。</p>
 
-<p align="center"><a href="https://github.com/chartercharon26/BoneUp/releases/download/v1.1.0/BoneUp-1.1-macOS.zip"><img src="download-macos.svg" alt="Download original BoneUp for macOS" width="222"></a> <a href="https://github.com/chartercharon26/BoneUp/releases/download/v1.1.0/BoneUp-1.1-Windows.zip"><img src="download-windows.svg" alt="Download original BoneUp for Windows" width="222"></a> <a href="https://github.com/chartercharon26/BoneUp/releases/download/v1.3.0-meow/BoneUp-Meow-1.3-macOS.zip"><img src="download-meow.svg" alt="Download BoneUp Meow for macOS" width="222"></a></p>
+<p align="center"><a href="https://github.com/chartercharon26/BoneUp/releases/download/v1.1.0/BoneUp-1.1-macOS.zip"><img src="download-macos.svg" alt="Download original BoneUp for macOS" width="222"></a> <a href="https://github.com/chartercharon26/BoneUp/releases/download/v1.1.0/BoneUp-1.1-Windows.zip"><img src="download-windows.svg" alt="Download original BoneUp for Windows" width="222"></a> <a href="https://github.com/chartercharon26/BoneUp/releases/download/v1.3.0-meow/BoneUp-Meow-1.3-macOS.zip"><img src="download-meow.svg" alt="Download BoneUp Meow for macOS" width="222"></a> <a href="https://github.com/chartercharon26/BoneUp/releases/download/v1.3.0-meow/BoneUp-Meow-1.3-Windows.zip"><img src="download-meow-windows.svg" alt="Download BoneUp Meow for Windows" width="222"></a></p>
 
-<p align="center">原版：Mac / Windows · 喵特别版：Mac · 两版均支持中文 / English</p>
+<p align="center">原版与喵特别版：Mac / Windows · 两版均支持中文 / English</p>
 
 ## 坐太久，它真的会变骨头
 
@@ -66,9 +66,36 @@
 
 ![九只Q版小猫](meow-preview.png)
 
-**9 只 Q 版小猫**，挠屏幕、推杯子、变面包、关灯吓人。独立安装，可与原版共存。
+**9 只 Q 版小猫**，挠屏幕、推杯子、变面包、关灯吓人。Mac 与 Windows 均可用，独立安装，可与原版共存。
 
-[Mac 下载](https://github.com/chartercharon26/BoneUp/releases/download/v1.3.0-meow/BoneUp-Meow-1.3-macOS.zip) · [查看特别版图文介绍](MEOW.zh-CN.md)
+#### 点一下，九只猫各有一出小戏
+
+在**工作或加班时、坐在桌前且尚未变成骨头猫**的状态下点击，触发下面的小动作；正在表演时不会被再次点击打断。骨头状态下点击只会动下巴。图片均来自 1.3 图文手册。
+
+<table>
+<tr>
+<td width="50%" valign="top"><p><strong>奶牛猫</strong></p><img src="meow-click-tuxedo.png" alt="奶牛猫 / Tuxedo" width="360"><p>低吼一声，伸爪挠屏幕，留下三道粉色爪印。</p></td>
+<td width="50%" valign="top"><p><strong>灰白猫</strong></p><img src="meow-click-greywhite.png" alt="灰白猫 / Grey & White" width="360"><p>用自己的猫叫唱小曲，头顶飘出音符。</p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><p><strong>小白猫</strong></p><img src="meow-click-snow.png" alt="小白猫 / Snow White" width="360"><p>害羞脸红，冒出爱心，轻声表达喜欢。</p></td>
+<td width="50%" valign="top"><p><strong>奶油猫</strong></p><img src="meow-click-cream.png" alt="奶油猫 / Cream" width="360"><p>缩成一条面包打盹，呼噜呼噜，然后醒来。</p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><p><strong>橘猫（默认）</strong></p><img src="meow-click-ginger.png" alt="橘猫（默认） / Ginger (default)" width="360"><p>先盯着你，故意把桌上的杯子推下去摔碎，再得意地喵一声。</p></td>
+<td width="50%" valign="top"><p><strong>灰狸花</strong></p><img src="meow-click-greytabby.png" alt="灰狸花 / Grey Tabby" width="360"><p>双爪高举伸大懒腰，再打一个长长的哈欠。</p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><p><strong>三花猫</strong></p><img src="meow-click-calico.png" alt="三花猫 / Calico" width="360"><p>发现毛线球后左扑右扑，兴奋地呼噜，忘记工作。</p></td>
+<td width="50%" valign="top"><p><strong>小黑猫</strong></p><img src="meow-click-black.png" alt="小黑猫 / Black Cat" width="360"><p>关灯后响起诡异音效，黑暗中亮起双眼并突然哈气；再开灯呼噜，问你有没有被吓到。</p></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><p><strong>暹罗猫</strong></p><img src="meow-click-siamese.png" alt="暹罗猫 / Siamese" width="360"><p>超大声嚎一嗓子，出现声波，画面也跟着震动。</p></td>
+</tr>
+</table>
+
+
+[Mac 下载](https://github.com/chartercharon26/BoneUp/releases/download/v1.3.0-meow/BoneUp-Meow-1.3-macOS.zip) · [Windows 下载](https://github.com/chartercharon26/BoneUp/releases/download/v1.3.0-meow/BoneUp-Meow-1.3-Windows.zip) · [查看特别版图文介绍](MEOW.zh-CN.md)
 
 ## 陪你工作，也陪你休息
 
@@ -81,9 +108,9 @@
 | 版本 | 系统 | 安装方法 |
 | --- | --- | --- |
 | [原版 BoneUp 1.1](https://github.com/chartercharon26/BoneUp/releases/tag/v1.1.0) | macOS / Windows | Mac：解压后打开 DMG，拖入应用程序。Windows：全部解压后运行 `install.bat`。 |
-| [BoneUp 喵 1.3 特别版](https://github.com/chartercharon26/BoneUp/releases/tag/v1.3.0-meow) | macOS 12+ · Apple 芯片 / Intel | 解压后打开 DMG，把 **BoneUp 喵**拖入应用程序。 |
+| [BoneUp 喵 1.3 特别版](https://github.com/chartercharon26/BoneUp/releases/tag/v1.3.0-meow) | macOS 12+ · Apple 芯片 / Intel；Windows 10 / 11 | Mac：解压后打开 DMG，拖入应用程序。Windows：全部解压后运行 `install.bat`。 |
 
-两个版本均支持**中文 / English**，安装包附有中英文指南。语言切换在菜单中的 **语言 / Language**。自动生成的 **Source code** 不是安装包。
+两个版本均支持**中文 / English**，Mac 包附中英文图文指南；Windows 包附中英文快速开始和中文图文手册。语言切换在菜单中的 **语言 / Language**。自动生成的 **Source code** 不是安装包。
 
 ## 使用说明与反馈
 
