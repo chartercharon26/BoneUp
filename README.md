@@ -2,9 +2,9 @@
   <img src="icon.png" width="112" alt="BoneUp app icon">
   <h1>BoneUp 🦴</h1>
   <p><strong>A desktop pet that reminds you to stand up.</strong></p>
-  <p>macOS & Windows · English & 简体中文 · Version 1.1</p>
+  <p>Original 1.1 · Meow Special Edition 1.3 · English & 简体中文</p>
   <p><strong>English</strong> | <a href="README.zh-CN.md">简体中文</a></p>
-  <p><a href="https://github.com/chartercharon26/BoneUp/releases/latest"><strong>Download BoneUp →</strong></a></p>
+  <p><a href="https://github.com/chartercharon26/BoneUp#download"><strong>Download BoneUp →</strong></a></p>
 </div>
 
 ---
@@ -20,7 +20,17 @@ Meet your tiny desk companion. Keep sitting and your pet gradually turns into a 
 
 Both packages include English and Chinese user guides, quick-start instructions, and terms of use. Choose one of the two platform packages above; GitHub's automatically generated **Source code** archives are not installers.
 
-## What it does
+## BoneUp Meow 1.3 · macOS special edition 🐾
+
+![Nine chibi cats in BoneUp Meow](meow-preview.png)
+
+Prefer a softer cat-only companion? **BoneUp Meow** adds nine chibi cats, recorded meows and unique click interactions, with the familiar sitting timer and workday reminders. It is a separate Mac app and can be installed alongside original BoneUp.
+
+[**Download Meow 1.3 for macOS**](https://github.com/chartercharon26/BoneUp/releases/download/v1.3.0-meow/BoneUp-Meow-1.3-macOS.zip) · [English introduction & guide](MEOW.md) · [中文介绍](MEOW.zh-CN.md)
+
+**macOS 12+ · Apple silicon / Intel · English / 简体中文.** This special edition has no Windows build; original BoneUp downloads above remain available.
+
+## Original BoneUp 1.1 · What it does
 
 - **A pet that changes with your sitting time.** A visible nudge to get up and move.
 - **14 animal skins.** Cats, a panda, a giraffe, a husky, and more.
@@ -41,7 +51,7 @@ The app is configured to start when you sign in. You can change this from its me
 
 Open the **menu-bar menu** on macOS or the **system-tray menu** on Windows, then choose **语言 / Language → English** or **简体中文**. **Follow system** selects the language automatically.
 
-## Guides
+## Original BoneUp 1.1 · Guides
 
 - [English user guide](User-Guide-English.pdf)
 - [简体中文使用手册](User-Guide-zh-CN.pdf)
