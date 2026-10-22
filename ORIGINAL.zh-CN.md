@@ -26,9 +26,46 @@
 
 ![14种原版角色](original-skins.png)
 
-## 点一下，看看它的拿手好戏
+## 点击角色后的 14 种反应
 
-![狼王、老虎和鲨鱼的实际互动](original-actions.png)
+在**工作或加班状态**点击角色即可触发。以下图片来自原版 1.1 的实际画面；动作中的裂纹、抓痕和震动只出现在宠物窗口内，会自行消失。
+
+<table>
+<tr>
+<td width="50%" valign="top"><p><strong>缅因先生</strong></p><img src="original-click-maine.png" alt="缅因先生 — 生气地哈气，挥出四道血红色抓痕。" width="360"><p>生气地哈气，挥出四道血红色抓痕。</p></td>
+<td width="50%" valign="top"><p><strong>金渐层小姐</strong></p><img src="original-click-golden.png" alt="金渐层小姐 — 喵一声，在宠物窗口上留下白色抓痕。" width="360"><p>喵一声，在宠物窗口上留下白色抓痕。</p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><p><strong>熊猫先生</strong></p><img src="original-click-panda.png" alt="熊猫先生 — 咔嚓咔嚓啃完一根竹子，最后打个嗝。" width="360"><p>咔嚓咔嚓啃完一根竹子，最后打个嗝。</p></td>
+<td width="50%" valign="top"><p><strong>长颈鹿小姐</strong></p><img src="original-click-giraffe.png" alt="长颈鹿小姐 — 脖子越伸越长，一直伸出画面。" width="360"><p>脖子越伸越长，一直伸出画面。</p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><p><strong>鳄鱼先生</strong></p><img src="original-click-croc.png" alt="鳄鱼先生 — 1.1 中点击后只会发出叫声，暂无专属动画；图中为平时的外观。" width="360"><p>1.1 中点击后只会发出叫声，暂无专属动画；图中为平时的外观。</p></td>
+<td width="50%" valign="top"><p><strong>哈士奇先生</strong></p><img src="original-click-husky.png" alt="哈士奇先生 — 捧花脸红，走出画面送花；画外挨了一巴掌，捂着脸回来。" width="360"><p>捧花脸红，走出画面送花；画外挨了一巴掌，捂着脸回来。</p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><p><strong>金毛女士</strong></p><img src="original-click-retriever.png" alt="金毛女士 — 哈士奇带着花过来，被她一巴掌打走。" width="360"><p>哈士奇带着花过来，被她一巴掌打走。</p></td>
+<td width="50%" valign="top"><p><strong>狼王</strong></p><img src="original-click-wolf.png" alt="狼王 — 仰头长嚎，声波从头顶一圈圈冒出。" width="360"><p>仰头长嚎，声波从头顶一圈圈冒出。</p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><p><strong>狮子先生</strong></p><img src="original-click-lion.png" alt="狮子先生 — 张大嘴怒吼，声浪震动宠物窗口。" width="360"><p>张大嘴怒吼，声浪震动宠物窗口。</p></td>
+<td width="50%" valign="top"><p><strong>老虎小姐</strong></p><img src="original-click-tiger.png" alt="老虎小姐 — 皱眉露出獠牙，发出一声怒吼。" width="360"><p>皱眉露出獠牙，发出一声怒吼。</p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><p><strong>兔子女士</strong></p><img src="original-click-rabbit.png" alt="兔子女士 — 狐狸滑着太空步来搭讪，被她一巴掌打走。" width="360"><p>狐狸滑着太空步来搭讪，被她一巴掌打走。</p></td>
+<td width="50%" valign="top"><p><strong>狐狸先生</strong></p><img src="original-click-fox.png" alt="狐狸先生 — 戴礼帽和白手套跳舞，太空步滑出画面；画外一声巴掌响，带着红手印回来。" width="360"><p>戴礼帽和白手套跳舞，太空步滑出画面；画外一声巴掌响，带着红手印回来。</p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><p><strong>大象先生</strong></p><img src="original-click-elephant.png" alt="大象先生 — 举起鼻子鸣叫，冲击波震出玻璃裂纹。" width="360"><p>举起鼻子鸣叫，冲击波震出玻璃裂纹。</p></td>
+<td width="50%" valign="top"><p><strong>鲨鱼先生</strong></p><img src="original-click-shark.png" alt="鲨鱼先生 — 上下排尖牙咬向屏幕，留下玻璃裂纹。" width="360"><p>上下排尖牙咬向屏幕，留下玻璃裂纹。</p></td>
+</tr>
+</table>
+
+动作播放中再次点击不会打断它，等表演结束后再点。声音大小可用左下角的扬声器调节。
+
+### 狐狸的小剧场：跳舞 → 太空步 → 挨巴掌
+
+![Fox dance, moonwalk and return with a handprint](original-click-fox-sequence.png)
 
 ## 主要功能
 
